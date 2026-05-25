@@ -38,10 +38,10 @@ Expected GitHub Pages URL:
 Search for this URL in `index.html`:
 
 ```text
-https://wa.me/919999999999?text=Hello%20I%20want%20enquiry%20about%20Vreenda%20Gurukul
+https://wa.me/919422370809?text=Hello%20I%20want%20enquiry%20about%20Vreenda%20Gurukul
 ```
 
-Replace `919999999999` with your actual WhatsApp number in international format.
+Replace `919422370809` with your actual WhatsApp number in international format.
 
 Example:
 
